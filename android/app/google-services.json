@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1014951804128",
+    "project_id": "learning-f763c",
+    "storage_bucket": "learning-f763c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1014951804128:android:a5b67694c209ad12d3a485",
+        "android_client_info": {
+          "package_name": "com.example.cloud_firestore_test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1014951804128-5f61dhp6qfnrv62rme4ejkkbev3ad4s7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3Oc99zuNDdAm1VU-Pms7vAiVGe8qvvpk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1014951804128-5f61dhp6qfnrv62rme4ejkkbev3ad4s7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
